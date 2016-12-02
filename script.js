@@ -12,7 +12,6 @@ topbar.append("David Sucks")
 
 editor.find(".title").html("David Sucks")
 
-editor.find(".debug").("David")
 
 
 
