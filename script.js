@@ -1,5 +1,5 @@
 var editor = $(parent.document.body)
-editor.find("#project-files-header").html("david sucks").css({color: "cornsilk
+editor.find("#project-files-header").html("david sucks").css({color: "cornsilk"});
 //editor.find("div").css({background:"black"})
 var topbar = $(parent.parent.document.body).find("#topbar")
 
