@@ -10,6 +10,8 @@ topbar.find(".project-name").html("David Sucks")
 editor.find(".pane-header").html("David Sucks")
 topbar.append("David Sucks")
 
+editor.find(".title").html("David Sucks")
+
 
 
 //var allDivsInTheEditor = editor.find("div")
