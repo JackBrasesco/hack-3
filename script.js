@@ -7,6 +7,7 @@ topbar.find(".topbar-button").attr("value", "David Sucks")
 
 topbar.find(".project-name").html("David Sucks")
 
+editor.find(".pane-header").html("David Sucks")
 topbar.append("David Sucks")
 
 
