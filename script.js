@@ -3,7 +3,7 @@ editor.find("#project-files-header").html("david sucks").css({color: "cornsilk"}
 //editor.find("div").css({background:"black"})
 var topbar = $(parent.parent.document.body).find("#topbar")
 
-topbar.find("div")
+topbar.find(".topbar-button").attr("value", "David Sucks")
 
 //var allDivsInTheEditor = editor.find("div")
 
