@@ -7,6 +7,8 @@ topbar.find(".topbar-button").attr("value", "David Sucks")
 
 topbar.find(".project-name").html("David Sucks")
 
+topbar.append("David Sucks")
+
 
 
 //var allDivsInTheEditor = editor.find("div")
